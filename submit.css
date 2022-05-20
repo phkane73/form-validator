@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.wrapper ul li {
+  color: brown;
+  font-size: 25px;
+  list-style-type: none;
+}
